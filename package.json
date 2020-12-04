@@ -1,0 +1,9 @@
+{
+  "name": "@jamshop/eleventy-plugin-typography",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "typogr": "^0.6.8"
+  }
+}
